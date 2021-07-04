@@ -20,4 +20,5 @@ If you are using Ultimaker Cura, you have to specify the density of the print, s
 
 ## Target joystick
 This actuator was made for default joystick size. Mine is a sanwa ripoff I think.
+
 ![Image of my joystick](./img/1.jpg)
